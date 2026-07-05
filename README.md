@@ -12,5 +12,4 @@ This repository documents my Unreal Engine learning journey.
 Become a skilled Unreal Engine game developer.
 ## Screenshot
 
-![
-Unreal-Engine-Learning](section1 level design.png)
+![Unreal-Engine-Learning](section1 level design.png)
